@@ -69,3 +69,13 @@ python nb2md.py
 
 我把所有notebook文件都放在上面了，可以直接运行。
 
+https://aistudio.baidu.com/aistudio/projectdetail/3669389
+
+:rainbow:CSDN博客链接：
+
+- [【画学numpy】介绍](https://blog.csdn.net/Light2077/article/details/123676075)
+- [【画学numpy】1.numpy数组初识](https://blog.csdn.net/Light2077/article/details/123676012)
+- [【画学numpy】2.numpy数组创建](https://blog.csdn.net/Light2077/article/details/123676032)
+- [【画学numpy】3.numpy数组操作](https://blog.csdn.net/Light2077/article/details/123676048)
+- [【画学numpy】4.numpy数组索引](https://blog.csdn.net/Light2077/article/details/123676059)
+- [【画学numpy】5.numpy数组运算](https://blog.csdn.net/Light2077/article/details/123676066)
